@@ -1,6 +1,8 @@
 # Nubank Clone
 
-Esse é um projeto clone da interface do aplicativo Nubank utilizando React Native.
+This is a clone from a famous fintech bank here in Brazil.
+
+This project runs on react native and showcases animation.
  
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-around; ">
   <img src="images/main.png" width="250", height="550" >
